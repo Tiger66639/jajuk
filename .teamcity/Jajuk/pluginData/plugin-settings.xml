@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <versionedSettings rootId="Jajuk_HttpsGithubComTiger66639jajukGitRefsHeadsMaster" enabled="true" showChanges="true" buildSettings="ALWAYS_USE_CURRENT" />
+  <issueTrackers>
+    <trackerConnection key="youtrack1" type="youtrack">
+      <param name="secure:password" value="zxxf0b6753968585d24c3db07e945307465" />
+      <param name="name" value="Jajuk" />
+      <param name="host" value="http://localhost:88" />
+      <param name="idPrefix" value="BC TEST" />
+      <param name="autoSync" value="true" />
+      <param name="username" value="root" />
+    </trackerConnection>
+  </issueTrackers>
+</settings>
+
