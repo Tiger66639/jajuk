@@ -65,6 +65,12 @@
           <param name="vcsRootId" value="Jajuk_HttpsGithubComTiger66639jajukGitRefsHeadsMaster" />
         </parameters>
       </extension>
+      <extension id="BUILD_EXT_9" type="xml-report-plugin">
+        <parameters>
+          <param name="xmlReportParsing.reportDirs" value="*.xml" />
+          <param name="xmlReportParsing.reportType" value="junit" />
+        </parameters>
+      </extension>
     </build-extensions>
     <cleanup />
   </settings>
