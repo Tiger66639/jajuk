@@ -62,7 +62,6 @@
       <extension id="BUILD_EXT_2" type="VcsLabeling">
         <parameters>
           <param name="labelingPattern" value="build-%system.build.number%" />
-          <param name="successfulOnly" value="true" />
           <param name="vcsRootId" value="Jajuk_HttpsGithubComTiger66639jajukGitRefsHeadsMaster" />
         </parameters>
       </extension>
