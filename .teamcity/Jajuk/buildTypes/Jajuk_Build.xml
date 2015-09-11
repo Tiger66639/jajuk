@@ -63,7 +63,7 @@
         <parameters>
           <param name="labelingPattern" value="build-%system.build.number%" />
           <param name="successfulOnly" value="true" />
-          <param name="vcsRootId" value="__ALL__" />
+          <param name="vcsRootId" value="Jajuk_HttpsGithubComTiger66639jajukGitRefsHeadsMaster" />
         </parameters>
       </extension>
     </build-extensions>
