@@ -7,6 +7,9 @@
       <option name="allowExternalStatus" value="true" />
       <option name="cleanBuild" value="true" />
     </options>
+    <disabled-settings>
+      <setting-ref ref="RUNNER_22" />
+    </disabled-settings>
     <parameters />
     <build-runners>
       <runner id="RUNNER_22" name="" type="Maven2">
