@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="3411b153-fd67-4b40-8912-55c30f28ec8c" type="jetbrains.git" modification-check-interval="60" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="3411b153-fd67-4b40-8912-55c30f28ec8c" type="jetbrains.git" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
   <name>https://github.com/Tiger66639/jajuk.git#refs/heads/master</name>
   <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
-  <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
+  <param name="agentCleanPolicy" value="ALWAYS" />
   <param name="authMethod" value="PASSWORD" />
   <param name="branch" value="refs/heads/master" />
   <param name="ignoreKnownHosts" value="true" />
