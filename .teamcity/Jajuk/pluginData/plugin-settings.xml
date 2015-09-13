@@ -3,7 +3,7 @@
   <versionedSettings rootId="Jajuk_HttpsGithubComTiger66639jajukGitRefsHeadsMaster" enabled="true" showChanges="true" buildSettings="PREFER_VCS" />
   <issueTrackers>
     <trackerConnection key="youtrack1" type="youtrack">
-      <param name="secure:password" value="zxxf0b6753968585d24c3db07e945307465" />
+      <param name="secure:password" value="zxxfce37b9bd06278f27ef11e94640456b168cbcabf52f81c7b" />
       <param name="name" value="Jajuk" />
       <param name="host" value="http://localhost:88" />
       <param name="idPrefix" value="BC TEST" />
