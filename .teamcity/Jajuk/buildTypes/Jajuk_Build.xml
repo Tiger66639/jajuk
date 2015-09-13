@@ -72,12 +72,6 @@
           <param name="xmlReportParsing.reportType" value="junit" />
         </parameters>
       </extension>
-      <extension id="BUILD_EXT_11" type="VcsLabeling">
-        <parameters>
-          <param name="labelingPattern" value="build-%system.build.number%" />
-          <param name="vcsRootId" value="Jajuk_HttpsGithubComTiger66639jajukGitRefsHeadsMaster" />
-        </parameters>
-      </extension>
     </build-extensions>
     <cleanup />
   </settings>
