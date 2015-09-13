@@ -8,7 +8,7 @@
       <param name="host" value="http://localhost:88" />
       <param name="idPrefix" value="BC TEST" />
       <param name="autoSync" value="true" />
-      <param name="username" value="root" />
+      <param name="username" value="tiger66639@live.de" />
     </trackerConnection>
   </issueTrackers>
 </settings>
