@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Tiger66639/jajuk.svg)](https://travis-ci.org/Tiger66639/jajuk)
 This is the full Jajuk repository 
 
 --- USING MAVEN ---
