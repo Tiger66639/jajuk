@@ -14,6 +14,6 @@
   <param name="useAlternates" value="true" />
   <param name="userForTags" value="Tiger66639" />
   <param name="username" value="Tiger66639@live.de" />
-  <param name="usernameStyle" value="USERID" />
+  <param name="usernameStyle" value="EMAIL" />
 </vcs-root>
 
