@@ -72,6 +72,9 @@
           <param name="xmlReportParsing.reportType" value="junit" />
         </parameters>
       </extension>
+      <extension id="perfmon" type="perfmon">
+        <parameters />
+      </extension>
     </build-extensions>
     <cleanup />
   </settings>
