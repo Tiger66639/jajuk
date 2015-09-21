@@ -11,5 +11,10 @@
       <param name="username" value="tiger66639@live.de" />
     </trackerConnection>
   </issueTrackers>
+  <project-graphs>
+    <graph title="New chart title" defaultFilters="" hideFilters="" id="customGraph1" seriesTitle="Serie">
+      <valueType key="BuildTestStatus" title="BuildTestStatus" sourceBuildTypeId="Jajuk_Build" />
+    </graph>
+  </project-graphs>
 </settings>
 
