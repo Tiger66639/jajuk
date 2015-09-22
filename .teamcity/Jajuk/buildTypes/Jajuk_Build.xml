@@ -55,6 +55,7 @@
           <param name="revisionRuleBuildBranch" value="&lt;default&gt;" />
           <param name="schedulingPolicy" value="cron" />
           <param name="timezone" value="SERVER" />
+          <param name="triggerBuildOnAllCompatibleAgents" value="true" />
           <param name="triggerBuildWithPendingChangesOnly" value="true" />
         </parameters>
       </build-trigger>
